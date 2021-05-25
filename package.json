@@ -1,0 +1,26 @@
+{
+  "name": "birinchi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samandarov22/neww.git"
+  },
+  "keywords": [
+    "birinchi"
+  ],
+  "author": "Rustam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samandarov22/neww/issues"
+  },
+  "homepage": "https://github.com/Samandarov22/neww#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
